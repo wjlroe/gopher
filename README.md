@@ -1,5 +1,7 @@
 # GoCampfire
 
+**OBSOLETE - abandoned code alert!**
+
 This is a campfire bot in Go. In order for it to work, you'll need to create a user on campfire for it and copy the apikey in My Info when logged in. (To test it, you can just use your own apikey, but it's best to run it as a special user).
 
 In order to use it, you need to create a config file that looks like this:
