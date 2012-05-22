@@ -17,6 +17,4 @@ Then to start the bot, run `./campfire ~/location/of/config/file/campfire.ini na
 
 ## Features - doesn't do any of these yet
 
-- Git stats `gopher buzzard stats`
-- Git stats `gopher falcon stats`
 - Erlang docs `gopher erlang apply`
