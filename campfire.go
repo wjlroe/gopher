@@ -12,14 +12,6 @@ import (
 	"willroe-goconf.googlecode.com/hg"
 )
 
-// const SERVER = "ardourcreations.campfirenow.com"
-
-// // ardour:
-// const APIKEY = "84a8e2a71d7947c45e8ec92e2a13bdbe009e4cdc"
-
-// // madred:
-// //const APIKEY = "5decd9115ca6aebd3fa796a58c51fb509a6a9cdb"
-// const ROOM = "Test"
 var caught_signals = []string{"SIGINT","SIGTERM"}
 
 func ParseURL(url string) (parsed_url *http.URL) {
